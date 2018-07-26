@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[62]:
+# A class that used to analyse a XML file, which contains label data for training.
 
 
 import xml.etree.ElementTree as ET
